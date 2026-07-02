@@ -11,11 +11,15 @@ Building elegant software • Learning every day • Creating real-world impact
 </p>
 
 </div>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence;Machine+Learning;Full+Stack+Development;Open+Source+Enthusiast;Always+Building..." />
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Data+Science;Artificial+Intelligence;Machine+Learning;Building+skills+one+project+at+a+time..."
+    alt="Typing SVG"
+  />
+</p>
 
 <br><br>
-
+<div align="center">
 <a href="https://github.com/aryanprjpt">
   <img src="https://img.shields.io/badge/GitHub-@aryanprjpt-181717?style=for-the-badge&logo=github" />
 </a>

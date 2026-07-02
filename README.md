@@ -96,7 +96,7 @@ I believe in writing clean code, learning continuously, and creating meaningful 
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://wsrv.nl/?url=avatars.githubusercontent.com/aryanprjpt&w=160&h=160&fit=cover&mask=circle" width="120" /><br><br>
+      <img src="https://wsrv.nl/?url=avatars.githubusercontent.com/aryanprjpt&s=200&mask=circle" width="120" /><br><br>
       <b>Aryan Prajapat</b><br>
       <sub><i>Artificial Intelligence & Data Science</i></sub><br><br>
       🎓 IIT Jodhpur &nbsp;|&nbsp; 💻 Developer &nbsp;|&nbsp; 💡 Problem Solver<br><br>

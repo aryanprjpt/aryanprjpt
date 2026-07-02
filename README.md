@@ -1,13 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=150&section=header" width="100%"/>
+<div align="center">
 
 <br>
 
-# Aryan Prajapat
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=42&duration=1&pause=100000&color=6366F1&center=true&vCenter=true&width=600&height=70&lines=Aryan+Prajapat" />
+
 ### Artificial Intelligence & Data Science Student
 
 <p>
 Building elegant software • Learning every day • Creating real-world impact
 </p>
+
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence;Machine+Learning;Full+Stack+Development;Open+Source+Enthusiast;Always+Building..." />
 
